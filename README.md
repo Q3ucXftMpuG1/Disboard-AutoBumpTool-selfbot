@@ -1,4 +1,4 @@
-Here’s the updated README with your social links included:
+Here’s the updated README with the additional instruction for `.env` file and the command to install `dotenv`:
 
 ---
 
@@ -41,17 +41,22 @@ This is an updated version of [Disboard-Auto-Bump-Selfbot](https://github.com/sh
    ```
    Add your configuration details to the `.env` file as required, then save and exit (`Ctrl+X`, `Y`, `Enter`).
 
-5. Install the necessary dependencies:
+5. **If you cannot find your `.env` file, make sure to run this command**:
+   ```bash
+   npm install dotenv
+   ```
+
+6. Install the necessary dependencies:
    ```bash
    npm install
    ```
 
-6. Update the packages:
+7. Update the packages:
    ```bash
    npm update
    ```
 
-7. Run the script:
+8. Run the script:
    ```bash
    node index.js
    ```
@@ -79,20 +84,25 @@ This is an updated version of [Disboard-Auto-Bump-Selfbot](https://github.com/sh
 6. **Create and edit the `.env` file**:
    - Open `.env` in a text editor (such as Notepad) and add your configuration details, then save and close the file.
 
-7. **Install the necessary dependencies**:
+7. **If you cannot find your `.env` file, make sure to run this command**:
+   ```cmd
+   npm install dotenv
+   ```
+
+8. **Install the necessary dependencies**:
    ```cmd
    npm install
    ```
 
-8. **Update the packages**:
+9. **Update the packages**:
    ```cmd
    npm update
    ```
 
-9. **Run the script**:
-   ```cmd
-   node index.js
-   ```
+10. **Run the script**:
+    ```cmd
+    node index.js
+    ```
 
 ### Getting Your Discord Token
 
@@ -129,7 +139,3 @@ This is an updated version of [Disboard-Auto-Bump-Selfbot](https://github.com/sh
 
 - Join my Discord server: [Telekom](https://discord.gg/telekom)
 - My Discord username: `casualguyyea`
-
----
-
-This now includes your social links and Discord username.
