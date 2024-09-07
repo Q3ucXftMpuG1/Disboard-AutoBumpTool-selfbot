@@ -3,7 +3,7 @@ This tool will bump the discord server, you need discord token, webhook link (fo
 
 This is an A selfbot that automatically bumps on Disboard.
 
-WARNING
+# WARNING
 
 Selfbots are against Discord's Terms of Service. Which can be found at https://discord.com/guidelines and https://discord.com/terms
 
