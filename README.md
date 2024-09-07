@@ -10,3 +10,8 @@ Selfbots are against Discord's Terms of Service. Which can be found at https://d
 This code is strictly educational.
 
 I am not liable for any accounts that get moderated by Discord due to the use of this selfbot.
+
+# READ THIS !!!!
+
+
+This is an updated version of https://github.com/shroomjaks/Disboard-Auto-Bump-Selfbot, i am updating the code with new features inside it.
