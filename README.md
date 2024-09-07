@@ -1,7 +1,3 @@
-Here’s the updated README with the additional instruction for `.env` file and the command to install `dotenv`:
-
----
-
 # Disboard-AutoBumpTool-selfbot
 
 This tool automatically bumps your Discord server on Disboard. To use it, you need a Discord token, webhook link (for status updates), and channel ID for bumping.
