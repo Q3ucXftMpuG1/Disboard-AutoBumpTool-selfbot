@@ -128,7 +128,7 @@ This is an updated version of [Disboard-Auto-Bump-Selfbot](https://github.com/sh
 
 4. You should see an output similar to this:
    ```
-   'YOUR_DISCORD_TOKEN_HERE'
+   'MTE2Mjk3OTM5MTU4MDY4ODQ5NA.G0O_xxxx.xxxxxxxx_xxxxxxxx_xxxxxxxx'
    ```
 
 ## Socials
